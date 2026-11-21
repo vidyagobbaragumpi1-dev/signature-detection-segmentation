@@ -99,6 +99,7 @@ signature-detection-segmentation/
 │
 ├── README.md
 └── Signature-Detection-Segmentation.ipynb
+|__ results
 ```
 
 Additional scripts, model files, sample outputs, and dependency files can be included if they are part of the project.
