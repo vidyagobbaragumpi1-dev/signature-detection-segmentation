@@ -9,11 +9,20 @@ This folder contains sample outputs from the signature detection and segmentatio
 
 signature-detection-segmentation/
 │
-├── README.md
-├── Signature-Detection-Segmentation.ipynb
+├
+|── README.md
+├
+|
+|── Signature-Detection-Segmentation.ipynb
 │
 └── results/
+    |
     ├── README.md
+    |
     ├── original_certificate.jpg
+    |
     ├── detection_output.jpg
+    |
     └── segmented_signature.png
+    |
+    |__ HeatMap Generate.img
